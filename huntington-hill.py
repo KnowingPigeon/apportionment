@@ -50,4 +50,3 @@ def apportion(inputs,number_of_seats):
         bin.write(state + ',' + str(apportionments[state]) + '\n')
 
 apportion(['50states.csv'], 435)
-#apportion()
