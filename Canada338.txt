@@ -1,0 +1,13 @@
+Ontario,129
+Quebec,77
+British Columbia,46
+Alberta,39
+Manitoba,12
+Saskatchewan,10
+Nova Scotia,9
+New Brunswick,7
+Newfoundland and Labrador,5
+Prince Edward Island,1
+Northwest Territories,1
+Yukon,1
+Nunavut,1

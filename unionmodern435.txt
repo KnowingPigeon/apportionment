@@ -1,0 +1,39 @@
+Alaska,2
+Arizona,14
+California,77
+Colorado,11
+Connecticut,7
+Delaware,2
+Hawaii,3
+Idaho,4
+Illinois,25
+Indiana,13
+Iowa,6
+Kansas,6
+Kentucky,9
+Maine,3
+Maryland,12
+Massachusetts,14
+Michigan,20
+Minnesota,11
+Missouri,12
+Montana,2
+Nebraska,4
+Nevada,6
+New Hampshire,3
+New Jersey,18
+New Mexico,4
+New York,39
+North Dakota,2
+Ohio,23
+Oklahoma,8
+Oregon,8
+Pennsylvania,25
+Rhode Island,2
+South Dakota,2
+Utah,6
+Vermont,1
+Washington,15
+West Virginia,4
+Wisconsin,11
+Wyoming,1
